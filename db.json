@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Shewag",
+      "username": "viru",
+      "email": "virendrasehwag@gmail.com",
+      "phone": "9784563210",
+      "id": 5
+    },
+    {
+      "name": "shashank saini",
+      "username": "shakku",
+      "email": "shashank.saini@agicent.com",
+      "phone": "6395634605",
+      "id": 6
+    },
+    {
+      "name": "shikhar",
+      "username": "dhawan",
+      "email": "shikhardhawan@gmail.com",
+      "phone": "1234567890",
+      "id": 7
+    }
+  ]
+}
